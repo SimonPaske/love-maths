@@ -22,5 +22,6 @@
    },
    "files.autoSave": "afterDelay",
    "terminal.integrated.gpuAcceleration": "canvas",
-   "editor.defaultFormatter": "HookyQR.beautify"
+   "editor.defaultFormatter": "HookyQR.beautify",
+   "cSpell.language": "en,en-GB,en-US"
 }
